@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 Study Companion
 
 A comprehensive AI-powered study assistant that helps you analyze documents, generate summaries, create quizzes, flashcards, and answer questions using Google's Gemini AI.
@@ -282,3 +283,6 @@ npm run build
 ---
 
 **Made with ❤️ for students and learners everywhere** 
+=======
+# Study-Companion
+>>>>>>> 7e89b002e7193ec2c9e62a0a13673ee7b5db0017
