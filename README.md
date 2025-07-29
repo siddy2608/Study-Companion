@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🎓 Study Companion
 
 A comprehensive AI-powered study assistant that helps you analyze documents, generate summaries, create quizzes, flashcards, and answer questions using Google's Gemini AI.
